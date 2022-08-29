@@ -1,0 +1,15 @@
+D:\DATOS VMS\Windows 7 x64 DESARROLLO\Bin\Expertis.Business.General.dll.config
+D:\DATOS VMS\Windows 7 x64 DESARROLLO\Bin\Expertis.Business.General.dll
+D:\DATOS VMS\Windows 7 x64 DESARROLLO\Bin\Expertis.Business.General.pdb
+D:\DATOS VMS\Windows 7 x64 DESARROLLO\Tecozam\FTecozam R2\Business\Expertis.Business.General\obj\Debug\ResolveAssemblyReference.cache
+D:\DATOS VMS\Windows 7 x64 DESARROLLO\Tecozam\FTecozam R2\Business\Expertis.Business.General\obj\Debug\Expertis.Business.General.dll
+D:\DATOS VMS\Windows 7 x64 DESARROLLO\Tecozam\FTecozam R2\Business\Expertis.Business.General\obj\Debug\Expertis.Business.General.pdb
+C:\ExpertisNet50R2test\Bin\Expertis.Business.General.dll.config
+C:\ExpertisNet50R2test\Bin\Expertis.Business.General.dll
+C:\ExpertisNet50R2test\Bin\Expertis.Business.General.pdb
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Business\Expertis.Business.General\obj\Debug\ResolveAssemblyReference.cache
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Business\Expertis.Business.General\obj\Debug\Expertis.Business.General.dll
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Business\Expertis.Business.General\obj\Debug\Expertis.Business.General.pdb
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.General\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.General\obj\Debug\Expertis.Business.General.dll
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.General\obj\Debug\Expertis.Business.General.pdb

@@ -1,0 +1,24 @@
+C:\Builds\2\Producto\Expertis50R2_Release\bin\Release\Expertis.Business.General.dll.config
+C:\Builds\2\Producto\Expertis50R2_Release\bin\Release\Expertis.Business.General.dll
+C:\Builds\2\Producto\Expertis50R2_Release\bin\Release\Expertis.Business.General.XmlSerializers.dll
+C:\Builds\2\Producto\Expertis50R2_Release\bin\Release\Expertis.Business.General.pdb
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Business\Expertis.Business.General\obj\Release\ResolveAssemblyReference.cache
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Business\Expertis.Business.General\obj\Release\Expertis.Business.General.dll
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Business\Expertis.Business.General\obj\Release\Expertis.Business.General.pdb
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Business\Expertis.Business.General\obj\Release\Expertis.Business.General.XmlSerializers.dll
+C:\Users\lgonzalez\Desktop\EXPERTIS\Bin\Expertis.Business.General.dll.config
+C:\Users\lgonzalez\Desktop\EXPERTIS\Bin\Expertis.Business.General.dll
+C:\Users\lgonzalez\Desktop\EXPERTIS\Bin\Expertis.Business.General.XmlSerializers.dll
+C:\Users\lgonzalez\Desktop\EXPERTIS\Bin\Expertis.Business.General.pdb
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.General\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.General\obj\Release\Expertis.Business.General.dll
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.General\obj\Release\Expertis.Business.General.pdb
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.General\obj\Release\Expertis.Business.General.XmlSerializers.dll
+C:\ExpertisNet50R2test\Bin\Expertis.Business.General.dll.config
+C:\ExpertisNet50R2test\Bin\Expertis.Business.General.dll
+C:\ExpertisNet50R2test\Bin\Expertis.Business.General.XmlSerializers.dll
+C:\ExpertisNet50R2test\Bin\Expertis.Business.General.pdb
+C:\Users\lgonzalez\Desktop\AntesDeEditar_David\Expertis.Business.General\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lgonzalez\Desktop\AntesDeEditar_David\Expertis.Business.General\obj\Release\Expertis.Business.General.dll
+C:\Users\lgonzalez\Desktop\AntesDeEditar_David\Expertis.Business.General\obj\Release\Expertis.Business.General.pdb
+C:\Users\lgonzalez\Desktop\AntesDeEditar_David\Expertis.Business.General\obj\Release\Expertis.Business.General.XmlSerializers.dll

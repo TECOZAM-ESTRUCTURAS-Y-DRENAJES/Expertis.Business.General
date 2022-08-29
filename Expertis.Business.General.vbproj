@@ -1,0 +1,329 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4A54FCE9-3F68-4400-89D6-4F687F8BAA39}</ProjectGuid>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>Expertis.Business.General</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <OptionCompare>Text</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>Solmicro.Expertis.Business.General</RootNamespace>
+    <StartupObject>Solmicro.Expertis.Business.General.%28Ninguno%29</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>Windows</MyType>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>C:\ExpertisNet50R2test\Bin\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>pdbonly</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>..\..\..\..\..\..\..\..\ExpertisNet50R2test\Bin\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>pdbonly</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Expertis.Application.ERP.PrevencionTec, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Business.BusinessEnum">
+      <Name>Expertis.Business.BusinessEnum</Name>
+      <HintPath>..\..\Bin\Expertis.Business.BusinessEnum.dll</HintPath>
+      <AssemblyFolderKey>hklm\expertis.engine</AssemblyFolderKey>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Engine.BE.BusinessEngine">
+      <Name>Expertis.Engine.BE.BusinessEngine</Name>
+      <HintPath>..\..\..\..\Bin\Expertis.Engine.BE.BusinessEngine.dll</HintPath>
+      <AssemblyFolderKey>hklm\expertis.engine</AssemblyFolderKey>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Engine.DAL, Version=5.0.0.0, Culture=neutral, PublicKeyToken=f4e70a047dadc395, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Engine.Global">
+      <Name>Expertis.Engine.Global</Name>
+      <HintPath>..\..\..\..\Bin\Expertis.Engine.Global.dll</HintPath>
+      <AssemblyFolderKey>hklm\expertis.engine</AssemblyFolderKey>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="Solmicro.Expertis.Business.BusinessEnum" />
+    <Import Include="Solmicro.Expertis.Engine" />
+    <Import Include="Solmicro.Expertis.Engine.BE" />
+    <Import Include="Solmicro.Expertis.Engine.BE.BusinessProcesses" />
+    <Import Include="Solmicro.Expertis.Engine.DAL" />
+    <Import Include="Solmicro.Expertis.Engine.Global" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Data.SqlClient" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Calendarios\CacheCalendarioCentro.vb" />
+    <Compile Include="Calendarios\CalendarioCentro.vb" />
+    <Compile Include="Calendarios\CalendarioEmpresa.vb" />
+    <Compile Include="Calendarios\CalendarioOperario.vb" />
+    <Compile Include="Comunes\BEGetQueryMultipleDB.vb" />
+    <Compile Include="Comunes\IBodega.vb" />
+    <Compile Include="Comunes\ProcessInfo.vb" />
+    <Compile Include="EMCS\EMCSCodigos.vb" />
+    <Compile Include="EntityInfo\Obras\ObraCabeceraInfo.vb" />
+    <Compile Include="Funcionalidad\CuadroMando.vb" />
+    <Compile Include="Funcionalidad\CuadroMandoComponentes.vb" />
+    <Compile Include="Funcionalidad\GAIADirectorios.vb" />
+    <Compile Include="Funcionalidad\GAIAPreferencias.vb" />
+    <Compile Include="Funcionalidad\SateliteTables.vb" />
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Operarios\Categoria.vb" />
+    <Compile Include="Operarios\Grupo.vb" />
+    <Compile Include="Operarios\GrupoOperario.vb" />
+    <Compile Include="Operarios\HistoricoTasaOperarioHora.vb" />
+    <Compile Include="Operarios\OperarioHistorico.vb" />
+    <Compile Include="Parametros\ParametroActivo.vb" />
+    <Compile Include="Parametros\ParametroAlbaranCompra.vb" />
+    <Compile Include="Parametros\ParametroAlbaranVenta.vb" />
+    <Compile Include="Parametros\ParametroAlquiler.vb" />
+    <Compile Include="Parametros\ParametroAnalitica.vb" />
+    <Compile Include="Parametros\ParametroCache.vb" />
+    <Compile Include="Parametros\ParametroCompra.vb" />
+    <Compile Include="Parametros\ParametroDatosEconomicos.vb" />
+    <Compile Include="Parametros\ParametroContabilidad.vb" />
+    <Compile Include="Parametros\ParametroContabilidadCompra.vb" />
+    <Compile Include="Parametros\ParametroContabilidadVenta.vb" />
+    <Compile Include="Parametros\ParametroFacturaCompra.vb" />
+    <Compile Include="Parametros\ParametroFacturaVenta.vb" />
+    <Compile Include="Parametros\ParametroGeneral.vb" />
+    <Compile Include="Parametros\ParametroStocks.vb" />
+    <Compile Include="Parametros\ParametroTesoreria.vb" />
+    <Compile Include="Parametros\ParametroVenta.vb" />
+    <Compile Include="Sistema\ClassEntityInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Sistema\ClassErrores.vb" />
+    <Compile Include="Comunes\Comunes.vb" />
+    <Compile Include="Contador.vb" />
+    <Compile Include="Funcionalidad\Correos.vb" />
+    <Compile Include="Comunes\DataDocIdentificacion.vb" />
+    <Compile Include="Sistema\DataDocRow.vb" />
+    <Compile Include="Comunes\DatosSistema.vb" />
+    <Compile Include="Sistema\Document.vb" />
+    <Compile Include="Funcionalidad\EntidadFoto.vb" />
+    <Compile Include="Sistema\DocumentInfoCache.vb" />
+    <Compile Include="Sistema\EntityInfoCache.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Funcionalidad\FacturaElec.vb" />
+    <Compile Include="Funcionalidad\Graficos.vb" />
+    <Compile Include="Monedas\HistoricoMoneda.vb" />
+    <Compile Include="Horas\Hora.vb" />
+    <Compile Include="Horas\HoraCategoria.vb" />
+    <Compile Include="Comunes\IFinanciero.vb" />
+    <Compile Include="Monedas\Moneda.vb" />
+    <Compile Include="Monedas\MonedaCache.vb" />
+    <Compile Include="Operarios\Oficio.vb" />
+    <Compile Include="Operarios\Operario.vb" />
+    <Compile Include="Operarios\OperarioHora.vb" />
+    <Compile Include="PaisPoblacionProvincia\Pais.vb" />
+    <Compile Include="Parametros\Parametro.vb" />
+    <Compile Include="Parametros\ParametroGrupo.vb" />
+    <Compile Include="Parametros\ParametroSubGrupo.vb" />
+    <Compile Include="PaisPoblacionProvincia\Poblacion.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PaisPoblacionProvincia\Provincia.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Sistema\GroupHelper.vb" />
+    <Compile Include="Sistema\IGroupUser.vb" />
+    <Compile Include="Sistema\SynonymousBusinessRules.vb" />
+    <Compile Include="TipoComprobante.vb" />
+    <Compile Include="TipoTurno\TipoTurno.vb" />
+    <Compile Include="TipoTurno\TipoTurnoLinea.vb" />
+    <Compile Include="Web References\Servicio_VIES\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Settings.settings">
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\Servicio_VIES\checkVatService.wsdl" />
+    <None Include="Web References\Servicio_VIES\matchCode1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\Servicio_VIES\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://ec.europa.eu/taxation_customs/vies/checkVatService.wsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\Servicio_VIES\</RelPath>
+      <UpdateFromURL>http://ec.europa.eu/taxation_customs/vies/checkVatService.wsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>Expertis_Business_General_Service_VIES_checkVatTestService</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>
