@@ -22,3 +22,7 @@ C:\Users\lgonzalez\Desktop\AntesDeEditar_David\Expertis.Business.General\obj\Rel
 C:\Users\lgonzalez\Desktop\AntesDeEditar_David\Expertis.Business.General\obj\Release\Expertis.Business.General.dll
 C:\Users\lgonzalez\Desktop\AntesDeEditar_David\Expertis.Business.General\obj\Release\Expertis.Business.General.pdb
 C:\Users\lgonzalez\Desktop\AntesDeEditar_David\Expertis.Business.General\obj\Release\Expertis.Business.General.XmlSerializers.dll
+C:\Users\dvelasco\Desktop\FuentesExpertis\Business\Expertis.Business.General\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dvelasco\Desktop\FuentesExpertis\Business\Expertis.Business.General\obj\Release\Expertis.Business.General.dll
+C:\Users\dvelasco\Desktop\FuentesExpertis\Business\Expertis.Business.General\obj\Release\Expertis.Business.General.pdb
+C:\Users\dvelasco\Desktop\FuentesExpertis\Business\Expertis.Business.General\obj\Release\Expertis.Business.General.XmlSerializers.dll
