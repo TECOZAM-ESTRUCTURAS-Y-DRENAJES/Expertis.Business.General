@@ -181,6 +181,7 @@ Public Class Operario
 
     <Task()> Public Shared Sub ValidarDescOperario(ByVal data As DataRow, ByVal services As ServiceProvider)
         If Length(data("DescOperario")) = 0 Then ApplicationService.GenerateError("La descripción del Operario es un dato obligatorio.")
+        If Length(data("IDOficio")) = 0 Then ApplicationService.GenerateError("El oficio es un dato obligatorio.")
     End Sub
 
     <Task()> Public Shared Sub ValidarDNI(ByVal data As DataRow, ByVal services As ServiceProvider)

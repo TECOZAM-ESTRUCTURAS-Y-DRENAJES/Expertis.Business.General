@@ -13,3 +13,6 @@ U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Business\Expertis.Business.Gene
 C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.General\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.General\obj\Debug\Expertis.Business.General.dll
 C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\BusinessSergio\Expertis.Business.General\obj\Debug\Expertis.Business.General.pdb
+C:\Users\dvelasco\Desktop\FuentesExpertis\Business\Expertis.Business.General\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dvelasco\Desktop\FuentesExpertis\Business\Expertis.Business.General\obj\Debug\Expertis.Business.General.dll
+C:\Users\dvelasco\Desktop\FuentesExpertis\Business\Expertis.Business.General\obj\Debug\Expertis.Business.General.pdb
